@@ -17,6 +17,15 @@ public class Student
 {
     private String name;
     private String car;
+    private String lunch;
+
+    public String getLunch() {
+        return lunch;
+    }
+
+    public void setLunch(String lunch) {
+        this.lunch = lunch;
+    }
 
     public String getCar() {
         return car;
