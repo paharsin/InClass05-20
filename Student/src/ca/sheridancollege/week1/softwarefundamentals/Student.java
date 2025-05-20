@@ -5,7 +5,7 @@
  * I am adding stuff
  */
 package ca.sheridancollege.week1.softwarefundamentals;
-
+//NinjaTurtle
 /**
  * A class to model Student Objects
  * each student has: a name (first an last name)
